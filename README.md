@@ -2,8 +2,6 @@
 # View-Spot-of-City
 城市景点推荐系统
 
-欢迎大家参考我们的代码对GIS软件开发方法进行学习 [![fork repo](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/RS-GIS-Geeks/View-Spot-of-City)，也欢迎大家加入我们共同完善本系统 [![fork repo](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/RS-GIS-Geeks/View-Spot-of-City)。
-
 # 软件截图
 ![登录](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/View%20Recommender/%E7%99%BB%E5%BD%95.png)<br><br>
 ![地图浏览](https://github.com/CS-Tao/github-content/blob/master/contents/github/View%20Recommender/%E5%9C%B0%E5%9B%BE%E6%B5%8F%E8%A7%88.png)<br><br>
@@ -19,6 +17,6 @@
 ![数字地球](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/View%20Recommender/Earth.png)<br><br>
 ![可视化统计](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/View%20Recommender/%E7%BB%9F%E8%AE%A1%E5%9B%BE.png)<br>
 # 版权声明
-本软件采用[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)协议，如需使用请附上本软件源码链接（https://github.com/CS-Tao/View-Spot-of-City）<br>
+本软件采用[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)协议，如需使用请附上本软件源码链接(https://github.com/CS-Tao/View-Spot-of-City)<br>
 
 ©2017 RS-GIS-Geeks. All rights reserved
